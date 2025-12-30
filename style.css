@@ -467,6 +467,18 @@ footer .credit a {
 {
   -webkit-tap-highlight-color: transparent;
 }
+.menu-card {
+  cursor: pointer;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.menu-card:focus,
+.menu-card:active {
+  outline: none;
+}
+
+
 
 
 
